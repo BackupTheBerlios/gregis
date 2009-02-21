@@ -1,0 +1,37 @@
+GREGIS - Methods, instructions and data on geographical information about GREECE.
+
+GIS data for Greece has been scarce. This project aims to provide methods, 
+instructions and data for the construction of environmental and other maps 
+of Greece with the help of open source GIS tools.
+
+The Guide on the "Reproduction of the CORINE map with GRASS-GIS", 
+corine_grass-gis_el.pdf, contains step-by-step instructions, in the 
+Greek language, on how to use the map database CORINE to extract maps 
+of land cover/use for Greece, with the aid of GRASS-GIS.
+
+GRASS, Geographic Resources Analysis Support System, is a Geographic 
+Information System (GIS) used for data management, image processing, 
+graphics production, spatial modelling, and visualization of many types 
+of data. It is Free (Libre) Software/Open Source released under GNU 
+General Public License (GPL). GRASS is official project of the Open Source 
+Geospatial Foundation.
+
+CORINE is a high resolution public domain map database, maintained by 
+the European Environmental Agency, EEA.
+________________________________________________________
+
+	EEA grants free access to all its data/applications 
+  	provided that the user agrees:
+
+	· to acknowledge the source as follows: Copyright EEA, Copenhagen, 2007
+	· to display a link to the EEA web site http://www.eea.europa.eu
+	· not to use the data/applications for commercial purposes unless the Agency 
+	  has expressly granted the right to do so
+________________________________________________________
+
+The Greek language web page for the EEA is
+	http://www.eea.europa.eu/el
+
+GREGIS will include a topologically corrected subset of CORINE containing 
+the Greek terretory, which will accompany the Guide, and other GIS files 
+of environmental and general interest.
